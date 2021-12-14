@@ -7,6 +7,6 @@ Kumpulkan info mengenai Hostname, User yang login, dan Current Privileges
 Upload informasi yang di dapat ke pastebin dengan sebelumnya di encode Base64.
 
 # Informasi
-Nama : Shane Wibowo
-NIM : 2301859852
+Nama : Shane Wibowo <br />
+NIM : 2301859852 <br />
 Kelas : LA07
